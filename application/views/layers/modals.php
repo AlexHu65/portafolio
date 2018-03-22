@@ -11,7 +11,9 @@
                     <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
                     <hr class="star-dark mb-5">
                     <img class="img-fluid mb-5" src="img/portfolio/cabin.png" alt="">
-                    <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                    <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda
+                        ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae?
+                        Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
                     <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
                         <i class="fa fa-close"></i>
                         Close Project</a>
@@ -33,7 +35,9 @@
                     <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
                     <hr class="star-dark mb-5">
                     <img class="img-fluid mb-5" src="img/portfolio/cake.png" alt="">
-                    <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                    <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda
+                        ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae?
+                        Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
                     <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
                         <i class="fa fa-close"></i>
                         Close Project</a>
@@ -55,7 +59,9 @@
                     <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
                     <hr class="star-dark mb-5">
                     <img class="img-fluid mb-5" src="img/portfolio/circus.png" alt="">
-                    <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                    <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda
+                        ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae?
+                        Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
                     <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
                         <i class="fa fa-close"></i>
                         Close Project</a>
@@ -77,7 +83,9 @@
                     <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
                     <hr class="star-dark mb-5">
                     <img class="img-fluid mb-5" src="img/portfolio/game.png" alt="">
-                    <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                    <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda
+                        ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae?
+                        Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
                     <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
                         <i class="fa fa-close"></i>
                         Close Project</a>
@@ -99,7 +107,9 @@
                     <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
                     <hr class="star-dark mb-5">
                     <img class="img-fluid mb-5" src="img/portfolio/safe.png" alt="">
-                    <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                    <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda
+                        ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae?
+                        Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
                     <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
                         <i class="fa fa-close"></i>
                         Close Project</a>
@@ -121,7 +131,9 @@
                     <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
                     <hr class="star-dark mb-5">
                     <img class="img-fluid mb-5" src="img/portfolio/submarine.png" alt="">
-                    <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                    <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda
+                        ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae?
+                        Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
                     <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
                         <i class="fa fa-close"></i>
                         Close Project</a>
