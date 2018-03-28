@@ -14,6 +14,36 @@
                     <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda
                         ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae?
                         Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+
+                    <!-- update css files usign this info -->
+                    <style>
+                        .features {
+                            text-align: center;
+                            padding: 15px;
+                        }
+                        .features ul {
+                            padding: 0;
+                        }
+
+                        .features ul > li {
+                            display: inline;
+                            padding: 15px;
+                            font-size: xx-large;
+                        }
+
+
+                    </style>
+                    <div class="features">
+                        <h2 class="text-secondary text-uppercase mb-0">Features</h2>
+                        <hr class="star-dark mb-5">
+                        <ul>
+                            <li><span class="icon-symfony"></span></li>
+                            <li><span class="icon-angular"></span></li>
+                            <li><span class="icon-css3"></span></li>
+                            <li><span class="icon-html5"></span></li>
+                            <li><span class="icon-javascript"></span></li>
+                        </ul>
+                    </div>
                     <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
                         <i class="fa fa-close"></i>
                         Close Project</a>

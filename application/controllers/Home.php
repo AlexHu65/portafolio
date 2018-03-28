@@ -18,9 +18,9 @@ class Home extends MY_Controller
     public function index()
     {
         $this->load->view("layers/head");
-        $this->load->view("layers/articles");
         $this->load->view("layers/portfolio");
         $this->load->view("layers/about");
+        $this->load->view("layers/articles");
         $this->load->view("layers/contact");
         $this->load->view("layers/footer");
     }

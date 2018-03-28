@@ -10,13 +10,24 @@
     padding: 2%;
     cursor: pointer;
 }
+
+.pagination > li:hover a {
+    padding: 2%;
+    font-weight: bolder;
+    color: darkred;
+
+}
 .pagination  a {
     text-decoration: none;
 }
 
-.posts {
+.post {
     border-bottom: 1px lightgrey solid;
-    padding: 5%;
+    padding: 15px;
+}
+
+.post {
+    margin: 50px auto;
 }
 
 .post a {
@@ -140,4 +151,14 @@
 
 .post .post-footer .comments-list .comment > .comments-list {
     margin-left: 50px;
+}
+
+/* -- Media Querie -- */
+@media screen and (max-width: 768px) {
+    .post .thumb {
+        width: 100%;
+        margin-bottom: 20px;
+        margin-right: 0;
+    }
+
 }

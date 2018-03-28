@@ -9,7 +9,7 @@ h4,
 h5,
 h6 {
     font-weight: 700;
-    font-family: 'Gloria Hallelujah', cursive;
+    font-family: 'Lato';
 }
 
 hr.star-light,
@@ -261,6 +261,7 @@ header.masthead h2 {
 }
 
 .portfolio-modal .portfolio-modal-dialog h2 {
+    ont-family: 'Monoton', cursive;
     font-size: 2rem;
 }
 

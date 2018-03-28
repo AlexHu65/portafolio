@@ -25,6 +25,8 @@
     <!-- Custom styles for this template -->
     <link href="css/freelancer.css" rel="stylesheet">
     <link href="css/customize.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/fluid-gallery.css" rel="stylesheet">
 
 
     <!-- Google fonts -->
